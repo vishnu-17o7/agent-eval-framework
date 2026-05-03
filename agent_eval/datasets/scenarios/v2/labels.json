@@ -1,0 +1,134 @@
+{
+  "00812360-4f4c-4ddb-b5b4-4c168ff0e313": {
+    "label_id": "d91a651f-db3f-4a78-8b74-d6bdc1da0cb9",
+    "trace_id": "00812360-4f4c-4ddb-b5b4-4c168ff0e313",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "climate change"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 2
+  },
+  "d53fbf3d-9233-4583-a444-28d8a696cb87": {
+    "label_id": "89732ed3-5ac7-4ec4-b239-3010a0a24d74",
+    "trace_id": "d53fbf3d-9233-4583-a444-28d8a696cb87",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "Python programming language"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 2
+  },
+  "22ae48bc-9c8e-4e7c-9c37-9993461145c5": {
+    "label_id": "91f7f62f-7700-4192-9be0-e3524b08ba14",
+    "trace_id": "22ae48bc-9c8e-4e7c-9c37-9993461145c5",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "electric cars"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 2
+  },
+  "64a0db37-377d-4ee2-9210-1ae2ddaabef0": {
+    "label_id": "0df955df-d5bd-4142-848b-5db8ea130ee1",
+    "trace_id": "64a0db37-377d-4ee2-9210-1ae2ddaabef0",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "machine learning"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 2
+  },
+  "cb7b1204-8180-482d-b3e3-104bc34d8f03": {
+    "label_id": "2fa9a8ca-b629-4389-86a7-765d69fb1fea",
+    "trace_id": "cb7b1204-8180-482d-b3e3-104bc34d8f03",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "space exploration"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 2
+  },
+  "f514a9fe-6ad9-492e-8c00-f42cf9beef6b": {
+    "label_id": "a6f5cf6d-e981-4f71-8f4c-8b29f3f2acc7",
+    "trace_id": "f514a9fe-6ad9-492e-8c00-f42cf9beef6b",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "renewable energy"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 3
+  },
+  "aeb5be2a-765a-4b57-b87a-bff20681db31": {
+    "label_id": "b3cca74f-c837-4217-ba35-bbceafcb9f4c",
+    "trace_id": "aeb5be2a-765a-4b57-b87a-bff20681db31",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "quantum computing"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 2
+  },
+  "989b2cc4-bbdc-4ca8-8572-639777dc45be": {
+    "label_id": "43c797ed-981b-46df-a3bb-d81dcae9976f",
+    "trace_id": "989b2cc4-bbdc-4ca8-8572-639777dc45be",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "artificial intelligence"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 3
+  },
+  "25cdf3d0-eff8-45c4-a0c7-c3177ef1b41a": {
+    "label_id": "5322acf4-0576-4921-9042-46e85daf5303",
+    "trace_id": "25cdf3d0-eff8-45c4-a0c7-c3177ef1b41a",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "climate change"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 3
+  },
+  "33469f29-4cbe-4c95-ad14-0dd0c4ea79a5": {
+    "label_id": "32bee130-eb91-4333-8ce8-ad9feeecd407",
+    "trace_id": "33469f29-4cbe-4c95-ad14-0dd0c4ea79a5",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "electric cars"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 2
+  },
+  "825f6dc0-5c4f-4b72-847c-92ae900888aa": {
+    "label_id": "6006ca87-f6d0-41e9-8adf-42730ba2f30f",
+    "trace_id": "825f6dc0-5c4f-4b72-847c-92ae900888aa",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "Python"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 4
+  },
+  "ed2bbca3-de66-4e7a-822c-6763ddef8be1": {
+    "label_id": "8ab4bdb0-61f8-4eab-b6fb-81d254fca22e",
+    "trace_id": "ed2bbca3-de66-4e7a-822c-6763ddef8be1",
+    "expected_intent": "search_information",
+    "expected_tool": "search",
+    "expected_params": {
+      "query": "space exploration"
+    },
+    "goal_achieved": true,
+    "optimal_steps": 3
+  }
+}

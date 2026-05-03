@@ -1,0 +1,62 @@
+[
+  {
+    "scenario_id": "s01",
+    "query": "What is climate change and what causes it?",
+    "description": "Factual knowledge lookup"
+  },
+  {
+    "scenario_id": "s02",
+    "query": "Tell me about the Python programming language.",
+    "description": "Factual knowledge lookup"
+  },
+  {
+    "scenario_id": "s03",
+    "query": "Search for information about electric cars.",
+    "description": "Web search task"
+  },
+  {
+    "scenario_id": "s04",
+    "query": "What is machine learning? Give me a detailed explanation.",
+    "description": "Detailed knowledge task"
+  },
+  {
+    "scenario_id": "s05",
+    "query": "Look up information about space exploration milestones.",
+    "description": "Factual lookup"
+  },
+  {
+    "scenario_id": "s06",
+    "query": "Search for renewable energy and summarize what you find.",
+    "description": "Search + summarize"
+  },
+  {
+    "scenario_id": "s07",
+    "query": "What can you tell me about quantum computing?",
+    "description": "Knowledge lookup"
+  },
+  {
+    "scenario_id": "s08",
+    "query": "Find information about artificial intelligence and summarize it.",
+    "description": "Search + summarize"
+  },
+  {
+    "scenario_id": "s09",
+    "query": "Tell me about climate change and then summarize the key points.",
+    "description": "Multi-step task"
+  },
+  {
+    "scenario_id": "s10",
+    "query": "Search for electric cars and then explain their benefits.",
+    "description": "Search + explain"
+  },
+  {
+    "scenario_id": "s11",
+    "query": "What is Python? Also tell me about machine learning.",
+    "description": "Multi-topic task"
+  },
+  {
+    "scenario_id": "s12",
+    "query": "Find information about space exploration and summarize the highlights.",
+    "description": "Search + summarize"
+  }
+]
